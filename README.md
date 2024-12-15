@@ -1,4 +1,7 @@
-## Hi there 👋
+- 👋 Hi, I'm @domklement
+- 🔭 Speech & ML researcher at Speech BUT at Brno University of Technology, Czechia, Visiting Scholar at CLSP, Johns Hopkins University, USA
+- 📚 Master's in Computer Science with focus on Machine Learning at Brno University of Technology (BUT), Czechia
+- 📫 Reach me: email: klement.dominik86@gmail.com, xkleme15@vutbr.cz, dklemen1@jhu.edu
 
 <!--
 **domklement/domklement** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
