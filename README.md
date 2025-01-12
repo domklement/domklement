@@ -1,4 +1,4 @@
-- 👋 Hi, I'm @domklement
+- 👋 Hi, I'm Dominik
 - 🔭 Speech & ML researcher at Speech BUT at Brno University of Technology, Czechia, Visiting Scholar at CLSP, Johns Hopkins University, USA
 - 📚 Master's student in Computer Science with focus on Machine Learning at Brno University of Technology (BUT), Czechia
 - :link: Let's connect on [LinkedIN](https://www.linkedin.com/in/dominik-klement/)
