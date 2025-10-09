@@ -3,7 +3,7 @@
 - 📚 Ph.D. student in Computer Science with focus on Speech processing and Machine Learning at Brno University of Technology (BUT), Czechia
 - 🎓 Check my published work on [Google Scholar](https://scholar.google.com/citations?user=AQ9-7xUAAAAJ&hl=en)
 - :link: Let's connect on [LinkedIN](https://www.linkedin.com/in/dominik-klement/)
-- 📫 Reach me: klement.dominik86@gmail.com, xkleme15@vutbr.cz
+- 📫 Reach me at: [klement.dominik86@gmail.com](mailto:klement.dominik86@gmail.com), [iklement@fit.vutbr.cz](mailto:iklement@fit.vutbr.cz)
 
 <!--
 **domklement/domklement** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
