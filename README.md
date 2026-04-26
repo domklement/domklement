@@ -1,6 +1,8 @@
 # 👋 Hi, I'm Dominik
-- 🔭 Speech & ML researcher at Speech BUT at Brno University of Technology, Czechia, Visiting Scholar at CLSP, Johns Hopkins University, USA
+- 🔭 Research Intern at Mitsubishi Electric Research Laboratories (MERL), Cambridge, USA
+- 🔭 Speech & ML researcher at Speech BUT at Brno University of Technology, Czechia,
 - 📚 Ph.D. student in Computer Science with focus on Speech processing and Machine Learning at Brno University of Technology (BUT), Czechia
+- 🔭 Visited CLSP, Johns Hopkins University, USA in 2024-2025
 - 🎓 Check my published work on [Google Scholar](https://scholar.google.com/citations?user=AQ9-7xUAAAAJ&hl=en)
 - :link: Let's connect on [LinkedIN](https://www.linkedin.com/in/dominik-klement/)
 - 📫 Reach me at: [klement.dominik86@gmail.com](mailto:klement.dominik86@gmail.com), [iklement@fit.vutbr.cz](mailto:iklement@fit.vutbr.cz)
